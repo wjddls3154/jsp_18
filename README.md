@@ -1,4 +1,4 @@
-# jsp_18 : jquery 사용 2
+# jsp_18 : jquery 이용 2 (Atom에서만 됬음)
 
 ![image](https://user-images.githubusercontent.com/37132897/158184416-5d6f3bdf-6be1-40cd-92e9-4bc241fbc1d1.png)
 - 버튼 누르기 전
