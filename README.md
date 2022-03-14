@@ -4,7 +4,7 @@
 - 버튼 누르기 전
 
 ![image](https://user-images.githubusercontent.com/37132897/158184443-9f743246-6cd0-465f-bc19-f45b3ceffb91.png)
-- 버튼 누른 후
+- 버튼 누른 후 : 인덱스 1,3,5 (홀수) 만 변경됨.
 
 
       $('#two').click(
